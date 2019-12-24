@@ -1,4 +1,0 @@
-This is the first line of the file
-here's another line
-and another
-as of 7:51, this is the last line!
